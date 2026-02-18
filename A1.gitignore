@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (uncomment if you should NOT upload the csv)
+# data/temperature_daily.csv
+# *.csv
