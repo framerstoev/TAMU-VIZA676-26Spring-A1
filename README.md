@@ -11,3 +11,8 @@ Interactive matrix view (Year × Month) for Hong Kong daily temperature:
 ## Setup
 ```bash
 pip install -r requirements.txt
+
+
+
+## Results
+<img width="1129" height="739" alt="image" src="https://github.com/user-attachments/assets/7ca18177-d487-40f8-bf58-cdc8872ee27d" />
